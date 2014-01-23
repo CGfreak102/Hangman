@@ -1,0 +1,17 @@
+hello world|The first program
+sharpie|Permanent Marker
+magnet|Used to hold stuff on fridge
+wallet|To store physical cash
+fork|Utensile for eating
+socket|Main function used in this program
+string|A combination of characters in storage
+battlefield|A computer game superior to Call of Duty
+flash cards|Used to help students study
+chocolate milk|The best flavor of Milk
+hard drive|Term describing a form of mass storage
+flash drive|Term describing a form of portable digital storage.
+snow|The best type of percipitation.
+encyrption|A way to conceal data by means of a mathmatical cipher.
+linux|A powerful OS
+object oriented programming|Inheritance, Polymorphism, parent/child class.
+framework|Abstraction in which software providing generic functionality can be selectively changed by additional user-written cod
